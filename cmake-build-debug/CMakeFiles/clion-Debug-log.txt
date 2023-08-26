@@ -1,0 +1,29 @@
+"/media/erfan/Local Disk1/linuxapps/Clion/JetBrains.CLion.2022.3.1/clion-2022.3.1/bin/cmake/linux/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/media/erfan/Local Disk1/linuxapps/Clion/JetBrains.CLion.2022.3.1/clion-2022.3.1/bin/ninja/linux/ninja" -G Ninja -S /home/erfan/CLionProjects/Risk_Game -B /home/erfan/CLionProjects/Risk_Game/cmake-build-debug
+-- The C compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+CMake Warning (dev) at CMakeLists.txt:3 (configure_file):
+  configure_file called with unknown argument(s):
+
+   background-sea-water.jpg
+   soldier.png
+   Help_menu1.jpg
+   Help_menu2.jpg
+   Help_menu3.jpg
+   Help_menu4.jpg
+   map_background.jpg
+   info_menu.jpg
+   winner_page.jpg
+   Risk_player_menu.jpg
+   dota_logo.jpg
+   Yakuza-.opus
+
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+LIBRARIES = /usr/lib/x86_64-linux-gnu/liballegro.so;/usr/lib/x86_64-linux-gnu/liballegro_acodec.so;/usr/lib/x86_64-linux-gnu/liballegro_audio.so;/usr/lib/x86_64-linux-gnu/liballegro_color.so;/usr/lib/x86_64-linux-gnu/liballegro_dialog.so;/usr/lib/x86_64-linux-gnu/liballegro_font.so;/usr/lib/x86_64-linux-gnu/liballegro_image.so;/usr/lib/x86_64-linux-gnu/liballegro_main.so;/usr/lib/x86_64-linux-gnu/liballegro_memfile.so;/usr/lib/x86_64-linux-gnu/liballegro_physfs.so;/usr/lib/x86_64-linux-gnu/liballegro_primitives.so;/usr/lib/x86_64-linux-gnu/liballegro_ttf.so;/usr/lib/x86_64-linux-gnu/liballegro_video.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/erfan/CLionProjects/Risk_Game/cmake-build-debug
