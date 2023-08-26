@@ -1,5 +1,5 @@
 # Risk_Game
-a Simple Game for First University Term
+a Simple Allegro game project for First University Term
 
 # Features
   1. Multiple Player support( up to 4 Player)
